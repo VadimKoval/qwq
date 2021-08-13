@@ -1,0 +1,8 @@
+a=input("введите число ")
+print(a)
+a=int(a)
+print(a)
+print('type (a): ', type (a))
+a=float(a)
+print(a)
+print('type (a): ', type (a))
